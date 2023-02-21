@@ -385,11 +385,15 @@ tfoot td, table th {
 @media (max-width: 800px) {
 
   h2 {
-    font-size: 4.5rem;
+    font-size: 3rem;
+  }
+
+  h3 {
+    font-size: 2.3rem;
   }
 
   p {
-    font-size: 1.7rem;
+    font-size: 2rem;
   }
 
   .intro-content, .grid{
