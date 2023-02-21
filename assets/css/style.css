@@ -383,6 +383,15 @@ tfoot td, table th {
 /* Media Queries */
 
 @media (max-width: 800px) {
+
+  h2 {
+    font-size: 4.5rem;
+  }
+
+  p {
+    font-size: 1.7rem;
+  }
+
   .intro-content, .grid{
     grid-template-columns: 1fr;
   }
